@@ -17,7 +17,7 @@ _Itálico_
 __*Negrito e Itálico*__
   
   
-Lista numerada:
+Lista Numerada:
 
 1. Teste
    1. Teste2
@@ -25,7 +25,7 @@ Lista numerada:
 4. Teste4
   
   
-Lista demarcada: 
+Lista Demarcada: 
 
 * Teste
 * Teste
