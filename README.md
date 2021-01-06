@@ -41,3 +41,4 @@ Lista de Tarefas:
 - [ ] Receber pagamento
   
   
+![Teste de imagem no Markdown](./avatar23ux.png)
