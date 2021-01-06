@@ -3,6 +3,7 @@
 ### Testando Markdown
 #### Testando Markdown
 ##### Testando Markdown
+###### Testando Markdown
   
 ---  
 ***
@@ -36,7 +37,7 @@ Lista de Tarefas:
 
 - [x] Criar a página principal
 - [x] Criar a página da loja
-- [] Finalizar a reunião com o cliente
-- [] Receber pagamento
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamento
   
   
