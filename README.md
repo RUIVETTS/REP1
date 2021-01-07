@@ -42,7 +42,7 @@ Lista de Tarefas:
 - [ ] Receber pagamento
   
   
-![Teste de imagem no Markdown](./avatar23ux.png)
+![Teste de imagem em Markdown](./avatar23ux.png)
   
 Link: [Meu GitHub](https://github.com/RUIVS)
   
@@ -56,7 +56,7 @@ Número | Nome | Nota
 37 | Lucas | 9,0
   
   
-Exemplo de uso de código no **Markdown**:
+Exemplo de uso de código em **Markdown**:
   
 ```
 function MultiplicarPorDois(valor){
@@ -64,10 +64,10 @@ function MultiplicarPorDois(valor){
 }
 ```
   
-Uso de emoji no **Markdown**
+Uso de emoji em **Markdown**
   
 :star_struck: :money_mouth_face: :mask: :scream:
   
-> "Agora eu sei usar quote em Markdown."
+> "Agora eu sei dar quote em Markdown."
   
 Texto com \_símbolos_ mas sem a formatação do \*\*Markdown**
