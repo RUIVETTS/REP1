@@ -16,6 +16,7 @@ _Itálico_
   
 __*Negrito e Itálico*__
   
+~~Riscado~~
   
 Lista Numerada:
 
@@ -42,3 +43,31 @@ Lista de Tarefas:
   
   
 ![Teste de imagem no Markdown](./avatar23ux.png)
+  
+Link: [Meu GitHub](https://github.com/RUIVS)
+  
+Tabela de Teste:
+  
+Número | Nome | Nota
+---|---|---
+39 | Vitor | 10,0
+12 | José | 9,5
+22 | Jéssica | 7,5
+37 | Lucas | 9,0
+  
+  
+Exemplo de uso de código no **Markdown**:
+  
+```
+function MultiplicarPorDois(valor){
+    return valor* 2;
+}
+```
+  
+Uso de emoji no **Markdown**
+  
+:star_struck: :money_mouth_face: :mask: :scream:
+  
+> "Agora eu sei usar quote em Markdown."
+  
+Texto com \_símbolos_ mas sem a formatação do \*\*Markdown**
